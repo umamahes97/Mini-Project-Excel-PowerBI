@@ -73,6 +73,12 @@ o	Department connects student records to departmental analysis.
 o	Performance dimension enables grouping and visualization.
 This model allows slicing data by Department, Age, Gender, Attendance, and Performance.
 
+
+
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/74078ca3-23f7-448d-aedf-db47f12e1e8a" />
+
+
 ## DAX Measures:
 
 ## Attendance Metrics:
@@ -109,6 +115,17 @@ This model allows slicing data by Department, Age, Gender, Attendance, and Perfo
   5. Funnel Chart: To Visualize the Department vs Count of Final Exam Score. ECE Is High Score .To used the filters and slicers with drill -down function.
   
   6. Donut Chart : To Visualize the Performance Vs Department Count. It Indicates the No of students In Performance Levels.
+
+
+
+      <img width="809" height="455" alt="image" src="https://github.com/user-attachments/assets/48dacb32-9842-4ca9-b239-ac3e99dea32a" />
+
+
+
+
+
+
+
 
 ## Key Insights:
   The dashboard integrates Raw Data, Cleaned Data, and Imputed Data to provide a comprehensive view of student performance. It allows interactive analysis by department, age, gender, attendance, and performance categories.
