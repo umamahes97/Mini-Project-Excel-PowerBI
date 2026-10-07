@@ -98,17 +98,17 @@ This model allows slicing data by Department, Age, Gender, Attendance, and Perfo
 
 ## Analysis and Visualizations (Power BI):
 
-  ## Bar Chart : To Visualize the Department Vs Performance ,And to count the students based on Performance (Average, Good, Excellent, Poor).ECE is the best Performance compared to another Departments.
+  1. Bar Chart : To Visualize the Department Vs Performance ,And to count the students based on Performance (Average, Good, Excellent, Poor).ECE is the best Performance compared to another Departments.
 
-  ## Pie Chart: To Visualize the Department Vs Performance and Sum of Final Exam Score.
+  2. Pie Chart: To Visualize the Department Vs Performance and Sum of Final Exam Score.
 
-  ## Column Chart: To Visualize the Gender Vs Sum of study hours. Gender (Female   and Male).Female Study Hours is more than Male Study Hours. To visualize the Gender vs Sum of Final exam Score.
+  3. Column Chart: To Visualize the Gender Vs Sum of study hours. Gender (Female   and Male).Female Study Hours is more than Male Study Hours. To visualize the Gender vs Sum of Final exam Score.
 
-  ## Line & Clustered Column Chart: To Visualize the Count of Student ID and Age Vs Department and Performance.
+  4. Line & Clustered Column Chart: To Visualize the Count of Student ID and Age Vs Department and Performance.
 
-  ## Funnel Chart: To Visualize the Department vs Count of Final Exam Score. ECE Is High Score .To used the filters and slicers with drill -down function.
+  5. Funnel Chart: To Visualize the Department vs Count of Final Exam Score. ECE Is High Score .To used the filters and slicers with drill -down function.
   
-  ## Donut Chart : To Visualize the Performance Vs Department Count. It Indicates the No of students In Performance Levels.
+  6. Donut Chart : To Visualize the Performance Vs Department Count. It Indicates the No of students In Performance Levels.
 
 ## Key Insights:
   The dashboard integrates Raw Data, Cleaned Data, and Imputed Data to provide a comprehensive view of student performance. It allows interactive analysis by department, age, gender, attendance, and performance categories.
